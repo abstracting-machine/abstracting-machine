@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Abstracting Machine
+Abstracting Machine
 <pre>
-  pip install independent-machine
+  pip install abstracting-machine
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import abstracting_machine
 ```
